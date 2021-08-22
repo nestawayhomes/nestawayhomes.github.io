@@ -1,0 +1,51 @@
+- selector: karen_before
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/img/deal_deep_dive/karen/old_living_room.jpg
+      alt: The living room was dated
+    - data-src: /assets/img/deal_deep_dive/karen/old_kitchen.jpg
+      alt: The kitchen needed new cabinets
+    - data-src: /assets/img/deal_deep_dive/karen/old_laundry_room.jpeg
+      alt: The laundry room needed to be cleaned up and some new drywall
+    - data-src: /assets/img/deal_deep_dive/karen/old_shed.jpeg
+      alt: The shed looked like a breeze would knock it over
+    - data-src: /assets/img/deal_deep_dive/karen/old_bathroom.jpg
+      alt: The bathroom was in pretty good condition
+  settings:
+    height: 500
+    initialHeight:
+    maxHeight:
+    interval: 10000
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
+
+- selector: karen_after
+  bullets: false
+  captions: true
+  images:
+    - src: /assets/img/deal_deep_dive/karen/new_living_room.jpeg
+      alt: New paint and flooring can go a long way
+    - data-src: /assets/img/deal_deep_dive/karen/new_kitchen.jpeg
+      alt: Brand new cabinets, countertops and sink. Cleaned up the tile as well
+    - data-src: /assets/img/deal_deep_dive/karen/new_bedroom.jpeg
+      alt: New carpet and paint throughout
+    - data-src: /assets/img/deal_deep_dive/karen/new_shed.jpeg
+      alt: Some paint makes it look much better
+    - data-src: /assets/img/deal_deep_dive/karen/new_bathroom.jpeg
+      alt: A bit of clean up but not too much work necessary
+  settings:
+    height: 500
+    initialHeight:
+    maxHeight: 
+    interval: 10000
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:

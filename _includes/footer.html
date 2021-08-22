@@ -1,0 +1,49 @@
+<footer>
+  <div class="container-md beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      {% include social-networks-links.html %}
+      <div class="footer-mailchimp">
+        {% include mailchimp-subscribe.html %}
+      </div>
+      {% if page.footer-extra %}
+        <div class="footer-custom-content">
+          {% for file in page.footer-extra %}
+            {% include {{ file }} %}
+          {% endfor %}
+        </div>
+      {% endif %}
+      <p class="copyright text-muted">
+      {% if site.author %}
+        {{ site.author }}
+        &nbsp;&bull;&nbsp;
+      {% endif %}
+      {{ site.time | date: '%Y' }}
+
+      {% if site.url-pretty %}
+        &nbsp;&bull;&nbsp;
+        <span class="author-site">
+          <a href="{% if site.url-canonical %}{{ site.url-canonical }}{% else %}{{ '/' | absolute_url }}{% endif %}">{{ site.url-pretty }}</a>
+        </span>
+      {% endif %}
+
+      {% if site.matomo %}
+        {% if site.matomo.opt-out %}
+          &nbsp;&bull;&nbsp;
+          <a href="http://{{- site.matomo.uri -}}/index.php?module=CoreAdminHome&action=optOut" target="_blank" class="text_muted">Do-not-Track</a>
+        {% endif %}
+      {% endif%}
+      </p>
+      {% unless site.remove-ads %}<p class="theme-by text-muted">
+        Powered by
+        <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>
+      </p>{% endunless %}
+      <p class="legal-disclaimer text-muted">
+        The Content on this site is for informational purposes only. You should not construe any such information or other material as legal, tax, investment, financial, or other advice. Nothing contained on our Site constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or other financial instruments in this or in any other jurisdiction in which such solicitation or offer would be unlawful under the securities laws of such jurisdiction.<br><br>
+
+        All Content on this site is information of a general nature and does not address the circumstances of any particular individual or entity. Nothing in the Site constitutes professional and/or financial advice, nor does any information on the Site constitute a comprehensive or complete statement of the matters discussed or the law relating thereto. James and Kat are not fiduciaries by virtue of any person’s use of or access to the Site or Content. You alone assume the sole responsibility of evaluating the merits and risks associated with the use of any information or other Content on the Site before making any decisions based on such information or other Content. In exchange for using the Site, you agree not to hold James or Kat, their affiliates or any third party service provider liable for any possible claim for damages arising from any decision you make based on information or other Content made available to you through the Site.
+      </p>
+      </div>
+    </div>
+  </div>
+</footer>
