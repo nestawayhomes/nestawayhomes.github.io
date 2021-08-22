@@ -10,4 +10,4 @@ We're always happy to chat with people, no matter their level of expertise or th
 - **short term rental leads**
 - **Indy & Louisville leads and contacts**
 
-If you're interested in working with us or want to learn more about our investing theorem, please reach out. You can find our email and calendly link at the bottom on the page. Feel free to set up a call on our calendar or shoot us an email.
+If you're interested in working with us or want to learn more about our investing theorem, please reach out. You can schedule a call on <a href="https://calendly.com/nestawayhomes/realestate" target="_blank">calendly</a>, <a href="mailto:privatelending@nestawayhomes.com?subject=Private%20Lending%20Next%20Steps" target="_blank">email us</a>, or message us directly.

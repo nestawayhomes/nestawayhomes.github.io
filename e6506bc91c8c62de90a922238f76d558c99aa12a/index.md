@@ -4,13 +4,13 @@ title: Private Lending
 subtitle: "Diversify your portfolio with</br><b>low risk</b>, <b>high return</b> and <b>short term</b> investments"
 ---
 
-We're always happy to chat with people, no matter their level of expertise or their market. We're currently looking for:
+Thank you for your interest in becoming a private money lender!
 
-- **private and hard money lenders**
-- **short term rental leads**
-- **Indy & Louisville leads and contacts**
+Private money lending can be a relatively low-risk, high-yield way to invest your money. Unlike real estate investing which can require a fair amount of industry and market knowledge (and time!) in order to maximize profits, private money lending is a more passive way to invest your money because you don’t have to be a landlord, manage “fix and flip” projects, or hold real estate for long periods of time to realize solid returns. 
 
-If you're interested in working with us or want to learn more about our investing theorem, please reach out. You can find our email and calendly link at the bottom on the page. Feel free to set up a call on our calendar or shoot us an email.
+Our notes are for less than twelve months. This short-term arrangement gives your investments similar liquidity as CDs but with much better interest rates!
+
+The document below goes into the process and some frequently asked questions. If you want to learn more or start the process, please reach out! You can schedule a call on <a href="https://calendly.com/nestawayhomes/realestate" target="_blank">calendly</a>, <a href="mailto:privatelending@nestawayhomes.com?subject=Private%20Lending%20Next%20Steps" target="_blank">email us</a>, or message us directly.
 
 <div class="pdf-viewer">
 	<div class="pdf-link">
