@@ -1328,6 +1328,16 @@ pre {
   text-align: center;
 }
 
+.property-title {
+  text-align: center;
+  font-size: 1.3rem;
+  margin-bottom: 0px;
+}
+
+.property-text {
+  text-align: center;
+  font-style: italic;
+}
 
 
 
