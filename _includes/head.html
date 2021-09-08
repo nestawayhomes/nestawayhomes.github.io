@@ -6,6 +6,8 @@
   {% capture title %}
     {%- if page.share-title -%}
       {{ page.share-title | strip_html | xml_escape }}
+    {%- elsif page.title-blob -%}
+      {{ site.title | strip_html | xml_escape }} - {{ page.title-blob | strip_html | xml_escape }}
     {%- elsif page.title -%}
       {{ site.title | strip_html | xml_escape }} - {{ page.title | strip_html | xml_escape }}
     {%- else -%}

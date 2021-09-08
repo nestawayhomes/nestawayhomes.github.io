@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Nest Away Stays
+title-blob: Stays
 ---
 
 Nest Away Stays is our **short term rental** management vision. We have a vision to build a brand that guests can trust, across cities and eventually countries.
