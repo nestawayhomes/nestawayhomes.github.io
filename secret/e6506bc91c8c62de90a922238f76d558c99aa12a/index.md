@@ -2,6 +2,7 @@
 layout: page
 title: Private Lending
 subtitle: "Diversify your portfolio with</br><b>low risk</b>, <b>high return</b> and <b>short term</b> investments"
+hidden: true
 ---
 
 Thank you for your interest in becoming a private money lender!
