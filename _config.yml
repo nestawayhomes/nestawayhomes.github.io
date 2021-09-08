@@ -17,8 +17,8 @@ navbar-links:
   About Us: "aboutus"
   Blog: "/"
   Nest Away Stays:
-    - What We Do: "nestawaystays"
-    - Our Properties: "nestawaystays/properties"
+    - What We Do: "stays"
+    - Our Properties: "stays/properties"
   Work With Us: "workwithus"
 
 # --- Logo --- #
