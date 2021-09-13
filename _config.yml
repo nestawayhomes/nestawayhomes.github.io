@@ -229,6 +229,14 @@ defaults:
       layout: "post"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
+      cover-img: ""
+      thumbnail-img: ""
+      tags: []
+      author-prefix: "By"
+      author: "James"
+      readtime: false
+      image-sliders: ""
+      description: ""
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
@@ -248,8 +256,13 @@ exclude:
 
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-sitemap
+
+
+jekyll_admin:
+  hidden_links:
+  homepage: "pages"
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
