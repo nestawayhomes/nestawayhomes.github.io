@@ -228,6 +228,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      subtitle: ""
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
       cover-img: ""

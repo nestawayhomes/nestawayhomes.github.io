@@ -1,19 +1,20 @@
 ---
-layout: post # Do not touch
-title: "Research and Determine a Market"
+title: Research and Determine a Market
+layout: post
 subtitle: Getting Started in Real Estate series 2/5
-cover-img: # If you want a banner image
-thumbnail-img: # If you want an image on the main page
-# share-img: /assets/img/path.jpg # If this is shared
-tags: [Real Estate, Education, Series, Getting Started Series, Real Estate Tips, Market Research]
-comments: true # Not used
-author-prefix: By # prefix to author, eg. "by" James
+tags:
+- Real Estate
+- Education
+- Series
+- Getting Started Series
+- Real Estate Tips
+- Market Research
+comments: true
+author-prefix: By
 author: James
-#last-updated: # Not used
-readtime: false # Not used
-image_sliders:
-  #- If you use these, add the slider in the _data directory
-published: true # Use to hide posts
+readtime: false
+image_sliders: null
+published: true
 ---
 
 You have a vague idea for what you want to do in real estate, but where should you buy? There are hundreds of markets in the United States alone, how can you be sure you're investing in the best one?
