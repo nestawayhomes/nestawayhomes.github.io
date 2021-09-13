@@ -16,6 +16,8 @@ tagline: A blog dedicated to real estate education
 description: A blog where James & Kat talk about their real estate investing journey. Along the way, they look to educate others.
 url: https://www.nestawayhomes.com
 
+show_drafts: true
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
@@ -99,7 +101,7 @@ feed_show_tags: true
 post_search: true
 
 # Show posts published in the future
-future: true
+future: false
 
 # The keywords to associate with your website, for SEO purposes
 keywords: "James and Kat's Coffee Bits, James and Kat, re,real estate,investing,real estate investing,brrrr,brrrr method,brrrr strategy,brrrr real estate,brrrr calculator,indy,indy real estate,indy brrrr,indianapolis,indianpolis real estate,airbnb,short term rental,vrbo,louisville,louisville real estate,louisville brrrr,indy investing,house hack,seattle,real estate investing strategies,real estate education"
@@ -216,7 +218,7 @@ paginate_path: "/page:num/"
 
 kramdown:
   input: GFM
-
+  
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -
