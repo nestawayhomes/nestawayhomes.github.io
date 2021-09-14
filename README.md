@@ -1,5 +1,9 @@
-This theme is powered by **Jenkyll** and **Beautiful Jenkyll**
+Before running scripts, make sure to run `bundle install`
 
-New Posts go into the **_posts** directory as \*.md files. Write in Sublime using MarkdownLivePreview. (Cmd+Shift+p ... Open Preview).
+To run locally, run `./run_local.sh`
+To run a "prod" view, run `./run_prod.sh`
 
-To compile, run `bundle exec jekyll serve`.
+To edit, run `./run_local.sh`
+- Local server: http://localhost:4000/
+- Admin view: http://localhost:4000/admin
+- Draft view: http://localhost:4000/admin/drafts
