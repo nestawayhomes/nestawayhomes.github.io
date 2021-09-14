@@ -17,7 +17,7 @@ description: A blog where James & Kat talk about their real estate investing jou
 url: https://www.nestawayhomes.com
 google_site_verification: NAfoYaYwvmQU61pwXLWZwaxmy56LHFp6dB1S6Om6kGU
 
-show_drafts: true
+show_drafts: false
 
 # --- List of links in the navigation bar --- #
 
