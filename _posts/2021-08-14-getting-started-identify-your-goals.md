@@ -1,19 +1,22 @@
 ---
-layout: post # Do not touch
-title: "Identify your investment goals"
+title: Identify Your Investment Goals
+layout: post
 subtitle: Getting Started in Real Estate series 1/5
-cover-img: # If you want a banner image
-thumbnail-img: /assets/img/thumbnail/gettingstarted.jpg
-share-img: /assets/img/thumbnail/gettingstarted.jpg
-tags: [Real Estate, Education, Series, Getting Started Series, Real Estate Tips] # Check tags.txt
-comments: true # Not used
-author-prefix: By # prefix to author, eg. "by" James
+cover-img: null
+thumbnail-img: "/assets/img/thumbnail/gettingstarted.jpg"
+share-img: "/assets/img/thumbnail/gettingstarted.jpg"
+tags:
+- Real Estate
+- Education
+- Series
+- Getting Started Series
+- Real Estate Tips
+comments: true
+author-prefix: By
 author: James
-#last-updated: # Not used
-readtime: false # Not used
-image_sliders:
-  #- If you use these, add the slider in the _data directory
-published: true # Use to hide posts
+readtime: false
+image_sliders: null
+published: true
 ---
 
 A question we often get asked is "How can I get started in real estate?" Often times, people are aware of real estate and actively educate themselves but are still lost on where to begin. This can be due to a variety of factors but usually the heart of the matter is that there is so much you need to know to get started. With this five part weekly series, we will try to break down the learnings from our own journey in the hopes that it makes your climb less daunting.
@@ -124,4 +127,4 @@ You've made it to the end... now what? I challenge you to do the following thing
 4. Come up with 3 investing strategies that can help you reach your 10 year goal.
 5. (Stretch) Create your "1 Year Roadmap" 
 
-As always, if you have comments, questions or want to chat, reach out using the links in the footer. If you enjoyed this content and want to get notified when we publish a new post, use the mail list form below to subscribe. 
+As always, if you have comments, questions or want to chat, reach out using the links in the footer. If you enjoyed this content and want to get notified when we publish a new post, use the mail list form below to subscribe.

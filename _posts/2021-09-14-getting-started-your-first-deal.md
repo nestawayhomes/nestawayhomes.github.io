@@ -1,5 +1,5 @@
 ---
-title: Your first deal
+title: Your First Deal
 subtitle: Getting Started in Real Estate series 4/5
 layout: post
 tags:
