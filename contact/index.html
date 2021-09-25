@@ -2,16 +2,22 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-	<meta http-equiv="refresh" content="5;url=../"/>
 </head>
 <body onload="download()">
 	<a id="dl" style="display: none" href="./contact_card.vcf" download></a>
 	<a id="redirect" style="display: none" href="../"></a>
 </body>
 <script>
-function download(){
-   document.getElementById('dl').click();
-   //document.getElementById('redirect').click();
+
+function sleep() {
+  return new Promise(r => setTimeout(r, 5000));
 }
+
+async function download() {
+   document.getElementById('dl').click();
+   await sleep();
+   document.getElementById('redirect').click();
+}
+
 </script>
 </html>
