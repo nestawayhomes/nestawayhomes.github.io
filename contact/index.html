@@ -5,11 +5,13 @@
 	<meta http-equiv="refresh" content="0;url=../"/>
 </head>
 <body onload="download()">
-	<a id="dl" style="display: none" href="./contact_card.vcf" download>
+	<a id="dl" style="display: none" href="./contact_card.vcf" download></a>
+	<a id="redirect" href="../"></a>
 </body>
 <script>
 function download(){
    document.getElementById('dl').click();
+   document.getElementById('redirect').click();
 }
 </script>
 </html>
