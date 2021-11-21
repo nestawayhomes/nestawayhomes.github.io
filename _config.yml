@@ -214,7 +214,7 @@ timezone: "America/Seattle"
 markdown: kramdown
 highlighter: rouge
 permalink: :year-:month-:day-:title/
-paginate: 5
+paginate: 8
 paginate_path: "/page:num/"
 
 kramdown:
@@ -255,7 +255,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
-  - bower_components/
+  - bower_components/ideal-image-slider/example/
 
 plugins:
   - jekyll-paginate
