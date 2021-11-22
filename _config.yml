@@ -249,6 +249,7 @@ defaults:
       path: 'bower_components/**'
     values:
       sitemap: false
+      hidden: true
 
 # Exclude these files from production site
 exclude:
