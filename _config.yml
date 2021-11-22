@@ -26,7 +26,7 @@ navbar-links:
   Blog: "/"
   Nest Away Stays:
     - What We Do: "stays"
-    - Our Properties: "stays/properties"
+    - Visit Site: "https://www.nestawaystays.com"
   Work With Us: "workwithus"
 
 # --- Logo --- #
@@ -256,6 +256,7 @@ exclude:
   - screenshot.png
   - docs/
   - bower_components/ideal-image-slider/example/
+  - stays/
 
 plugins:
   - jekyll-paginate
