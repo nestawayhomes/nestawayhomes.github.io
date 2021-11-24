@@ -6,6 +6,13 @@ author: James
 author-prefix: Ramblings by
 description: How do you proceed after your first real estate deal? An introspective
   blog post on mindset, belief and next steps.
+tags:
+- General
+- Real Estate
+- Education
+- Getting Started Series
+- Series
+- Mindset
 ---
 
 I've been putting off writing this blog post. Truthfully, this final part of the series is the most open ended and most difficult for me to crytalize. I don't feel like my own processes have been perfected; I am constantly making mistakes from deal to deal. What can I share when there exists mountains of real estate knowledge that I haven't even begun to tap. But... maybe that's what I should write about. The neverending journey, the constant education and the highs and lows that come with investing. At this point, you've gotten your feet wet. After your first deal, what things should you think about and consider? 
